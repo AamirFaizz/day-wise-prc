@@ -1,0 +1,65 @@
+
+@import "tailwindcss";
+/* 
+@import "tailwindcss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+
+.note-create {
+  display: flex;
+  gap: 15px;
+}
+
+.input {
+  padding: 8px 18px;
+  font-size: 15px;
+  outline: none;
+}
+
+.description {
+  padding: 8px 18px;
+  font-size: 15px;
+  outline: none; 
+}
+
+button {
+  padding: 8px 15px;
+  background-color: royalblue;
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:active {
+  scale: 0.93;
+}
+
+.mainnote {
+  display: flex;
+  gap: 15px;
+}
+.note {
+  flex-wrap: nowrap;
+  text-align: center;
+  overflow: auto;
+  border-radius: 5px;
+  margin-top: 20px;
+  width: 200px;
+  padding: 5px;
+  background-color:darkgray;
+}
+
+::-webkit-scrollbar {
+  display: none;
+} */
